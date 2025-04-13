@@ -5,3 +5,7 @@
 
 
 # pip install --upgrade --force-reinstall pydub xx xx xx x
+
+# python -m venv venv
+# source venv/bin/activate  # Linux/Mac
+# yoki Windowsda: venv\Scripts\activate
